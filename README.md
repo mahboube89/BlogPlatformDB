@@ -13,9 +13,9 @@
 ## Database Schema
 The database consists of 17 tables that form the core functionality of the blogging platform. Below is a visual representation of the database schema:
 
-![DB overview](images/Relationship-diagramms-ERD.png)
-![ERD with data types](images/ERD-with-dataTypes.png)
-![ERD in Sql Server Mangement Studio](images/ERD-in-SSMS.png)
+![DB overview](Images/Relationship-diagramms-ERD.png)
+![ERD with data types](Images/ERD-with-dataTypes.png)
+![ERD in Sql Server Mangement Studio](Images/ERD-in-SSMS.png)
 
 ### Key Tables
 - **UserAccount**  : Stores essential user data for authentication and role assignment.
@@ -32,7 +32,7 @@ The database consists of 17 tables that form the core functionality of the blogg
    git clone https://github.com/mahboube89/BlogPlatformDB.git
 2. **Import SQL Scripts**:
   - Open SQL Server Management Studio (SSMS).
-  - Import the SQL scripts from the sql/ folder into your database instance.
+  - Import the SQL scripts from the SqlScripts/ folder into your database instance.
   - Ensure that all tables, procedures, functions, and triggers are correctly created.
 
 
