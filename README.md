@@ -29,7 +29,7 @@ The database consists of 17 tables that form the core functionality of the blogg
 ## Installation and Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/BlogPlatformDB.git
+   git clone https://github.com/mahboube89/BlogPlatformDB.git
 2. **Import SQL Scripts**:
   - Open SQL Server Management Studio (SSMS).
   - Import the SQL scripts from the sql/ folder into your database instance.
@@ -69,4 +69,4 @@ There are several potential extensions for this project that could add new featu
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or suggestions, please contact your-email@example.com.
+For any questions or suggestions, please contact mahboube89r@gmail.com.
