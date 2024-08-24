@@ -64,7 +64,7 @@ There are several potential extensions for this project that could add new featu
 - **Media Management**        : Extend support for images and videos in blog posts, perhaps integrating with a media management system.
 - **Sharing Blog Posts**      : Enable users to share blog posts on other platforms or with other users.
 - **Gender Information**      : Add a Gender table to store gender-specific information for user profiles.
-![Future Enhancements](images/future-enhancements.png)
+![Future Enhancements](Images/future-enhancements.png)
 ## License
 This project is licensed under the MIT License.
 
